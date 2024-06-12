@@ -7,6 +7,6 @@ I am an individual with boundless curiosity, particularly in the realm of techno
 - 🦊 I have an interesting tool for you: [ReactDee](#https://github.com/bdiaz-dev/reactdee)
 - 🔎 I’m looking for work in a wonderful team
 - 🎮 Know my games [Ona Games](#https://onagames.brunodiaz.es)
-- 📫 Contact me by [mail](#mailto:contact@brunodiaz.es)
 - 💓 I`m fan of Hollow Knight, Delorean DMC12 and evil Morty
+- 📫 Contact me by [mail](#mailto:contact@brunodiaz.es)
 
